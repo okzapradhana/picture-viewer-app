@@ -1,0 +1,10 @@
+C:\Users\okzam\source\repos\PictureApp\PictureApp\bin\Debug\PictureApp.exe.config
+C:\Users\okzam\source\repos\PictureApp\PictureApp\bin\Debug\PictureApp.exe
+C:\Users\okzam\source\repos\PictureApp\PictureApp\bin\Debug\PictureApp.pdb
+C:\Users\okzam\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.csprojAssemblyReference.cache
+C:\Users\okzam\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.Properties.Resources.resources
+C:\Users\okzam\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.csproj.GenerateResource.cache
+C:\Users\okzam\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.csproj.CoreCompileInputs.cache
+C:\Users\okzam\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.exe
+C:\Users\okzam\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.pdb
+C:\Users\okzam\source\repos\PictureApp\PictureApp\obj\Debug\PictureApp.Form_1079_1.resources
